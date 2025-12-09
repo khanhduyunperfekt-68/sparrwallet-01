@@ -1,0 +1,16 @@
+=== SPARRWALLET SUMMARY ===
+Income: 10000.00
+Fixed costs: 700.00
+Variable costs: 100.00
+Invested (total): 0.00
+Saved (principal total): 200.00
+Projected savings interest (3m): 7.20
+Remaining: 9000.00
+
+
+Savings:
+  1) Day 11: Saved 200.00 → Interest 7.20 → Maturity 207.20 (Date: 11/02/2026)
+
+Evaluation: Overall spending is acceptable.
+
+Have a nice day!
